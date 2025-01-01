@@ -1,0 +1,10 @@
+Apple Black Rot
+Apple Scab
+Cedar Apple Rust
+Grape Black Rot
+Healthy
+Potato Early Blight
+Potato Late Blight
+Strawberry Leaf Scorch
+Tomato Septoria leaf spot
+Tomato Yellow Leaf Curl Virus
