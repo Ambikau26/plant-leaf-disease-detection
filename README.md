@@ -1,2 +1,3 @@
-https://drive.google.com/file/d/1CBhTcAZIEqtG0yM14HJU86JVeX9bpKKv/view?usp=drive_link 
-download this
+Create dataset folder and create train, test folder inside dataset folder. Download 50 images for each plant leaf images from -  https://www.kaggle.com/datasets/emmarex/plantdisease 
+create separate folder or each diseases namely, 
+
